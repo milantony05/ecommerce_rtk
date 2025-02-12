@@ -1,4 +1,4 @@
-# React + Vite
+# E-Commerce application (React + Vite)
 
 Simple E-Commerce application using React and Redux Toolkit.
 
