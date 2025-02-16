@@ -1,8 +1,37 @@
-# E-Commerce application (React + Vite)
+# E-Commerce application
 
-Simple E-Commerce application using React and Redux Toolkit.
+E-Commerce web application for managing and browsing products in an online store using Redux Toolkit.
 
-Currently, two official plugins are available:
+<img width="915" alt="ecommerce" src="https://github.com/user-attachments/assets/a6c6f910-2a1e-4412-b70c-2f04f181b752" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
+
+Live demo: [E-Commerce](https://milantony05.github.io/ecommerce_rtk/)
+
+## Installation
+
+To run this project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/milantony05/ecommerce_rtk.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd ecommerce_rtk
+   ```
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+4. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+
+## Technologies Used
+
+- React.js
+- Redux Toolkit
+- Vite
+- Tailwind CSS
