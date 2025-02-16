@@ -6,7 +6,7 @@ E-Commerce web application for managing and browsing products in an online store
 
 ## Demo
 
-Live demo: [E-Commerce](https://milantony05.github.io/ecommerce_rtk/)
+Live demo: [e-Commerce](https://milantony05.github.io/ecommerce_rtk/)
 
 ## Installation
 
